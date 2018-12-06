@@ -1,0 +1,7 @@
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ShippngQuote\ShippngQuote\bin\Debug\ShippngQuote.exe.config
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ShippngQuote\ShippngQuote\bin\Debug\ShippngQuote.exe
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ShippngQuote\ShippngQuote\bin\Debug\ShippngQuote.pdb
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ShippngQuote\ShippngQuote\obj\Debug\ShippngQuote.csprojAssemblyReference.cache
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ShippngQuote\ShippngQuote\obj\Debug\ShippngQuote.csproj.CoreCompileInputs.cache
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ShippngQuote\ShippngQuote\obj\Debug\ShippngQuote.exe
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ShippngQuote\ShippngQuote\obj\Debug\ShippngQuote.pdb
